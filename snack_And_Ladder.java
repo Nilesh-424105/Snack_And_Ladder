@@ -2,7 +2,10 @@ package com.snackAndLadder;
 
 public class snack_And_Ladder {
 	public static void main(String[] args) {
-		System.out.println("Welcome to Snack And Ladder Computation Program");
+
+		// starting position of player
+		int startPosition = 0;
+		System.out.println(" start position is: " + startPosition);
 	}
 
 }
